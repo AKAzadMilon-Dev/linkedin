@@ -1,0 +1,25 @@
+/* Singin Page Start */
+.bgstyle{
+    background: #E5E5E5;
+}
+.singinform{
+    width: 75%;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.singinform img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+
+}
+
+.alertStyle{
+    background: #FFFFFF;
+    border: none;
+}
+/* Singin Page End */
